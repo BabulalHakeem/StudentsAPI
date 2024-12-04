@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\data\\stddbontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:data\\stddbontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\migrations\\20241203081525_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:migrations\\20241203081525_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\migrations\\stddbontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:migrations\\stddbontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|c:\\users\\elcot\\source\\repos\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803B642B-47B9-4105-9969-30BE00673243}|StudentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StdDbontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Migrations\\StdDbontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\StdDbontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Migrations\\StdDbontextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\StdDbontextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:53:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:16:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241203081525_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Migrations\\20241203081525_InitalMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241203081525_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Migrations\\20241203081525_InitalMigration.cs",
+              "RelativeToolTip": "Migrations\\20241203081525_InitalMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:15:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StdDbontext.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Data\\StdDbontext.cs",
+              "RelativeDocumentMoniker": "Data\\StdDbontext.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Data\\StdDbontext.cs",
+              "RelativeToolTip": "Data\\StdDbontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:55:03.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T07:29:43.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:24:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:15:50.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
